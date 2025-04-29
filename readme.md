@@ -10,6 +10,7 @@ I'm always open to feedback and collaboration.
 |--------------------|---------------------------|----------------------|
 | [Simple Rest API](https://github.com/nur-sasongko/golang-playground/tree/beginner/simple-rest-api) | A basic REST API example  | [beginner/simple-rest-api](https://github.com/nur-sasongko/golang-playground/tree/beginner/simple-rest-api) |
 | [Url Shortener](https://github.com/nur-sasongko/golang-playground/tree/beginner/url-shortener)     | A URL shortener service   | [beginner/url-shortener](https://github.com/nur-sasongko/golang-playground/tree/beginner/url-shortener)     |
+| [Weather Fetcher](https://github.com/nur-sasongko/golang-playground/tree/beginner/weather-fetcher) | A simple weather fetching app | [beginner/weather-fetcher](https://github.com/nur-sasongko/golang-playground/tree/beginner/weather-fetcher) |
 
 How to choose project?
 `git branch -r` to see all branches
