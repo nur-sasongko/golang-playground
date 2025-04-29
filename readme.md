@@ -8,8 +8,8 @@ I'm always open to feedback and collaboration.
 ## Beginners
 | Name               | Description               | Branch Name          |
 |--------------------|---------------------------|----------------------|
-| Simple Rest API    | A basic REST API example  | beginner/simple-rest-api |`
-| Url Shortener     | A URL shortener service   | beginner/url-shortener |
+| [Simple Rest API](https://github.com/nur-sasongko/golang-playground/tree/beginner/simple-rest-api) | A basic REST API example  | [beginner/simple-rest-api](https://github.com/nur-sasongko/golang-playground/tree/beginner/simple-rest-api) |
+| [Url Shortener](https://github.com/nur-sasongko/golang-playground/tree/beginner/url-shortener)     | A URL shortener service   | [beginner/url-shortener](https://github.com/nur-sasongko/golang-playground/tree/beginner/url-shortener)     |
 
 How to choose project?
 `git branch -r` to see all branches
