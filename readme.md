@@ -12,10 +12,15 @@ I'm always open to feedback and collaboration.
 | [Url Shortener](https://github.com/nur-sasongko/golang-playground/tree/beginner/url-shortener)     | A URL shortener service   | [beginner/url-shortener](https://github.com/nur-sasongko/golang-playground/tree/beginner/url-shortener)     |
 | [Weather Fetcher](https://github.com/nur-sasongko/golang-playground/tree/beginner/weather-fetcher) | A simple weather fetching app | [beginner/weather-fetcher](https://github.com/nur-sasongko/golang-playground/tree/beginner/weather-fetcher) |
 
-# HackerRank
-branch name : `hackerrank`
+## HackerRank
+| Name               | Description               | Branch Name          |
+|--------------------|---------------------------|----------------------|
+| [Hacker Rank](https://github.com/nur-sasongko/golang-playground/tree/hackerrank) | Completed assignment challange from hackerrank | [hackerrank](https://github.com/nur-sasongko/golang-playground/tree/hackerrank) |
 
-## Problem Solving Beginner
+This is a collection of beginner-level problem-solving challenges from HackerRank.
+The challenges are designed to help you practice your coding skills and improve your problem-solving abilities.
+
+### Problem Solving Beginner
 1. Solve me first
 2. Simple Array Sum
 3. Compare the Triplets
