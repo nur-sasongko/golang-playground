@@ -20,13 +20,6 @@ I'm always open to feedback and collaboration.
 This is a collection of beginner-level problem-solving challenges from HackerRank.
 The challenges are designed to help you practice your coding skills and improve your problem-solving abilities.
 
-### Problem Solving Beginner
-1. Solve me first
-2. Simple Array Sum
-3. Compare the Triplets
-4. A Very Big Sum
-5. Diagonal Difference
-
 How to choose project?
 `git branch -r` to see all branches
 `git checkout <branch>` to switch to a branch
