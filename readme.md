@@ -12,6 +12,16 @@ I'm always open to feedback and collaboration.
 | [Url Shortener](https://github.com/nur-sasongko/golang-playground/tree/beginner/url-shortener)     | A URL shortener service   | [beginner/url-shortener](https://github.com/nur-sasongko/golang-playground/tree/beginner/url-shortener)     |
 | [Weather Fetcher](https://github.com/nur-sasongko/golang-playground/tree/beginner/weather-fetcher) | A simple weather fetching app | [beginner/weather-fetcher](https://github.com/nur-sasongko/golang-playground/tree/beginner/weather-fetcher) |
 
+# HackerRank
+branch name : `hackerrank`
+
+## Problem Solving Beginner
+1. Solve me first
+2. Simple Array Sum
+3. Compare the Triplets
+4. A Very Big Sum
+5. Diagonal Difference
+
 How to choose project?
 `git branch -r` to see all branches
 `git checkout <branch>` to switch to a branch
