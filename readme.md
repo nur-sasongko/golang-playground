@@ -12,3 +12,5 @@ Theses code as archives for my accomplishments in hackerrank
 6. Plus Minus
 7. Staircase
 8. Mini Max Sum
+9. Birthday Cake Candles
+10. Time Conversions
